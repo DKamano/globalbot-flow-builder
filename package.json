@@ -1,0 +1,14 @@
+{
+  "name": "globalbot-flow-builder",
+  "version": "1.0.0",
+  "description": "Ferramenta CLI para criação padronizada de fluxos de chatbot na Globalbot",
+  "main": "flowbuilder.js",
+  "scripts": {
+    "start": "node flowbuilder.js"
+  },
+  "author": "Seu Nome – UNISA Engenharia da Computação",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
